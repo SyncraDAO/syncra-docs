@@ -10,7 +10,7 @@ const config = {
   tagline: 'documentation for Syncra',
   //url: 'https://docs.syncra.xyz',
   url: 'https://jsk28.github.io/',
-  baseUrl: '/',
+  baseUrl: '/syncra-docs/',
   deploymentBranch: 'gh-pages',
   //onBrokenLinks: 'throw',
   favicon: 'img/logo-pills.png',
