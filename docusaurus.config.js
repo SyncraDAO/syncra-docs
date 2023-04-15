@@ -31,7 +31,8 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/LiberumDAO/syncra-docs/edit/main',
+          //editUrl: 'https://github.com/LiberumDAO/syncra-docs/edit/main',
+          editUrl: 'https://github.com/jsk28/syncra-docs/edit/main',
           routeBasePath: '/',
           lastVersion: 'current',
           versions: {
