@@ -12,6 +12,7 @@ const config = {
   url: 'https://jsk28.github.io/',
   baseUrl: '/syncra-docs/',
   deploymentBranch: 'gh-pages',
+  trailingSlash: false,
   //onBrokenLinks: 'throw',
   favicon: 'img/logo-pills.png',
   //organizationName: 'LiberumDAO',
