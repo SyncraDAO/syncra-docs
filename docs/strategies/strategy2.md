@@ -2,6 +2,6 @@
 sidebar_position: 2
 ---
 
-# 🕶 Confidential Voting
+# Strategy2
  TODO
 

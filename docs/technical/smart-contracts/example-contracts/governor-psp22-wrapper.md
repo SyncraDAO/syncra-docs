@@ -2,7 +2,8 @@
 sidebar_position: 3
 ---
 
-# 📜 Syncra Contracts
+# GovernorPSP22Wrapper
 
- TODO
+TODO
+
 

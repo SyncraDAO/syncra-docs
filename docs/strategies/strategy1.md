@@ -2,6 +2,6 @@
 sidebar_position: 1
 ---
 
-# Voting on Proposal
+# Strategy1
+ TODO
 
-TODO
