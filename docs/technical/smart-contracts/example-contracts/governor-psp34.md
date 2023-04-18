@@ -1,8 +1,8 @@
 ---
-sidebar_position: 3
+sidebar_position: 2
 ---
 
-# GovernorPSP22Wrapper
+# GovernorPSP34
 
  Oops, we haven't written this bit of documentation yet 😥 Work in progress 💪
 
