@@ -8,15 +8,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Syncra documentation',
   tagline: 'documentation for Syncra',
-  //url: 'https://docs.syncra.xyz',
-  url: 'https://jsk28.github.io/',
+  url: 'https://docs.syncra.xyz',
   baseUrl: '/syncra-docs/',
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
   //onBrokenLinks: 'throw',
   favicon: 'img/logo-pills.png',
-  //organizationName: 'LiberumDAO',
-  organizationName: 'jsk28',
+  organizationName: 'SyncraDAO',
   onBrokenLinks: 'warn',
   projectName: 'syncra-docs',
   i18n: {
@@ -31,8 +29,7 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          //editUrl: 'https://github.com/LiberumDAO/syncra-docs/edit/main',
-          editUrl: 'https://github.com/jsk28/syncra-docs/edit/main',
+          editUrl: 'https://github.com/SyncraDAO/syncra-docs/edit/main',
           routeBasePath: '/',
           lastVersion: 'current',
           versions: {
