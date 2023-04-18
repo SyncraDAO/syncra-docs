@@ -9,7 +9,7 @@ const config = {
   title: 'Syncra documentation',
   tagline: 'documentation for Syncra',
   url: 'https://docs.syncra.xyz',
-  baseUrl: '/syncra-docs/',
+  baseUrl: '/',
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
   //onBrokenLinks: 'throw',
